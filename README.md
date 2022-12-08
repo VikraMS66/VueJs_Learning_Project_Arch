@@ -16,3 +16,10 @@ Vue Topic Completed with Example
 11. State Management - (todo-app-state-mamage, cricket-app-v3))
 12. HTTP requests - (cricket-app-v2, cricket-app-v3)
 13. Lazy Loading - (routingv2, cricket-app-v3)
+
+Cricket app
+--------------------
+For all crikcet app backend is required - for backend the base url - "http://localhost:7070/cricket/api/players".
+GET POST PUT DELETE requsts are send to base url
+
+Consider crick-app.zip as backend
