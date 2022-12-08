@@ -19,7 +19,7 @@ Vue Topic Completed with Example
 
 Cricket app
 --------------------
-For all crikcet app backend is required - for backend the base url - "http://localhost:7070/cricket/api/players".
+For all cricket app backend is required - for backend the base url - "http://localhost:7070/cricket/api/players".
 GET POST PUT DELETE requsts are send to base url
 
 Consider crick-app.zip as backend
